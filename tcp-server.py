@@ -5,7 +5,6 @@ PORT = 5000
 
 products = {}
 
-
 def handle_command(command):
     global products
 
